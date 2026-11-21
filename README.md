@@ -24,7 +24,7 @@ Extracted the cryptographic password hash (`$pdf$...`) from the target locked fi
 Loaded the extracted hash file into Johnny and initiated a password recovery session. JTR successfully matched the hash against its wordlist.
 
 ### 4. Verification & Flag Capture
-Used the recovered credential to unlock the protected PDF document and verified the flag[cite: 13, 14].
+Used the recovered credential to unlock the protected PDF document and verified the flag.
 
 ---
 
